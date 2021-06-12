@@ -2,7 +2,7 @@
 #### Design and Development
 Avid computer engineer, from Nepal, passionate for novel and ingenious path, building prowess and making a way with rampant vision in the field of information technology. Excellent communicator with ability to explain complex techno-ideas and concept effectively, and develop experience.
 
-Skills: REACT / JS / HTML / CSS/ Python
+### Skills: REACT / JS / HTML / CSS/ Python
 
 - 🔭 I’m currently working on Javascripts cores... 
 - 🌱 I’m currently learning web development complements... 
@@ -10,11 +10,11 @@ Skills: REACT / JS / HTML / CSS/ Python
 - ⚡ Fun fact: Playing football both on and off the screen...🤣 
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; C | C++
-- 🌐 &nbsp; HTML | CSS  | JavaScript  | Bootstrap | Node.js | ReactJS | Redux | Webpack | WORDPRESS
-- 🛢 &nbsp; REST | SQL
-- 🔧 &nbsp; Git | Github
-- 🖥 &nbsp; Figma | Photoshop 
+- 💻  C | C++
+- 🌐  HTML | CSS  | JavaScript  | Bootstrap | Node.js | ReactJS | Redux | Webpack | WORDPRESS
+- 🛢  REST | SQL
+- 🔧  Git | Github
+- 🖥  Figma | Photoshop 
 
 
 
