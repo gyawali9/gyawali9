@@ -9,7 +9,7 @@ Avid computer engineer, from Nepal, passionate for novel and ingenious path, bui
 - 👯 I’m looking to collaborate on with other content creators... 
 - ⚡ Fun fact: Playing football both on and off the screen...🤣 
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 - 💻  C | C++
 - 🌐  HTML | CSS  | JavaScript  | Bootstrap | Node.js | ReactJS | Redux | Webpack | WORDPRESS
 - 🛢  REST | SQL
@@ -18,7 +18,7 @@ Avid computer engineer, from Nepal, passionate for novel and ingenious path, bui
 
 
 
-
+### Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gyawali9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gyawali9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/gyawali9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gyawali9/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyawali9)](https://github.com/anuraghazra/github-readme-stats)
