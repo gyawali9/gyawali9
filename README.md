@@ -2,7 +2,7 @@
 #### Design and Development
 Avid computer engineer, from Nepal, passionate for novel and ingenious path, building prowess and making a way with rampant vision in the field of information technology. Excellent communicator with ability to explain complex techno-ideas and concept effectively, and develop experience.
 
-### Skills: REACT / JS / HTML / CSS/ Python
+### Skills: JS / HTML / CSS / React / Python
 
 - 🔭 I’m currently working on Javascripts cores... 
 - 🌱 I’m currently learning web development complements... 
