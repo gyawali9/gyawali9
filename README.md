@@ -14,7 +14,7 @@ Avid computer engineer, from Nepal, passionate for novel and ingenious path, bui
 - 🌐  HTML | CSS  | JavaScript  | Bootstrap | Node.js | ReactJS | Redux | Webpack | WORDPRESS
 - 🛢  REST | SQL
 - 🔧  Git | Github
-- 🖥  Figma | Photoshop 
+- 🖥  Photoshop 
 
 
 
