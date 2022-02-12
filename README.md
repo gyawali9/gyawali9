@@ -11,7 +11,7 @@ Avid computer engineer, from Nepal, passionate for novel and ingenious path, bui
 
 ### 🛠 Tech Stack
 - 💻  C | C++
-- 🌐  HTML | CSS  | JavaScript  | Bootstrap | Node.js | ReactJS | Redux | Webpack | WORDPRESS
+- 🌐  HTML | CSS  | JavaScript  | Bootstrap | Angular | ReactJS | Redux | Webpack | WORDPRESS
 - 🛢  REST | SQL
 - 🔧  Git | Github
 - 🖥  Photoshop 
