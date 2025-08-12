@@ -1,6 +1,9 @@
 नमस्ते (Namaste) 🙏🏻, I'm Roshan Gyawali!
+
 Frontend Software Engineer | Crafting Seamless Web Experiences
+
 I'm a passionate Software Engineer from Nepal with over 4 years of experience building intuitive, high-performance web applications. Specializing in React.js, Next.js, and TypeScript, I thrive on creating responsive, scalable, and user-friendly interfaces. My focus is on modern frontend practices, clean code, and delivering seamless user experiences that make an impact.
+
 🔭 Currently working on: Building dynamic, scalable web applications with React and Next.js.🌱 Currently learning: Advanced TypeScript patterns and GraphQL for robust API integrations.👯 Open to collaboration: Excited to work with creative minds on innovative web projects.⚡ Fun fact: I love playing football—both on the field and in virtual arenas! ⚽🎮
 
 🛠 Tech Stack
