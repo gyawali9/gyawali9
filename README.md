@@ -1,21 +1,23 @@
-### नमस्ते (Namaste)🙏🏻, I'm Roshan Gyawali!
-#### Design and Development
-Avid computer engineer, from Nepal, passionate for novel and ingenious path, building prowess and making a way with rampant vision in the field of information technology. Excellent communicator with ability to explain complex techno-ideas and concept effectively, and develop experience.
+नमस्ते (Namaste) 🙏🏻, I'm Roshan Gyawali!
+Frontend Software Engineer | Crafting Seamless Web Experiences
+I'm a passionate Software Engineer from Nepal with over 4 years of experience building intuitive, high-performance web applications. Specializing in React.js, Next.js, and TypeScript, I thrive on creating responsive, scalable, and user-friendly interfaces. My focus is on modern frontend practices, clean code, and delivering seamless user experiences that make an impact.
+🔭 Currently working on: Building dynamic, scalable web applications with React and Next.js.🌱 Currently learning: Advanced TypeScript patterns and GraphQL for robust API integrations.👯 Open to collaboration: Excited to work with creative minds on innovative web projects.⚡ Fun fact: I love playing football—both on the field and in virtual arenas! ⚽🎮
 
-### Skills: JS / HTML / CSS / React / Python
+🛠 Tech Stack
+Languages & Frameworks
 
-- 🔭 I’m currently working on Javascripts cores... 
-- 🌱 I’m currently learning web development complements... 
-- 👯 I’m looking to collaborate on with other content creators... 
-- ⚡ Fun fact: Playing football both on and off the screen...🤣 
+Frontend: React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Angular
+State Management: Redux, RTK, Zustand, Context API
+Styling: Tailwind CSS, Chakra UI, Shadcn, Bootstrap, Custom CSS
+Data Fetching: React Query, Axios, GraphQL
+Form Management: React Hook Form, Yup
+Backend: Express, MongoDB, RESTful APIs
 
-### 🛠 Tech Stack
-- 💻  C | C++
-- 🌐  HTML | CSS  | JavaScript  | Bootstrap | Angular | ReactJS | Redux | Webpack | WORDPRESS
-- 🛢  REST | SQL
-- 🔧  Git | Github
-- 🖥  Photoshop 
+Tools & Platforms
 
+Version Control: Git, GitHub
+Design & Prototyping: Photoshop, Figma
+Others: Storybook, Webpack
 
 
 ### Connect With Me
